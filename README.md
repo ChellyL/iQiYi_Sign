@@ -1,6 +1,6 @@
 # iQiYi_Sign
 
-修改自tg群网友的签到脚本，只增加了tg推送功能
+修改自tg群网友的签到脚本,原始脚本来自dailycheckin，只增加了tg推送功能
 
 需要填写的内容都在脚本内部有注释，按照注释填写cookie和推送的token即可
 
